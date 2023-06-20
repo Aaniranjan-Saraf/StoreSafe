@@ -4,7 +4,7 @@ import axios from "axios";
 import "./App.css"; // Import the custom CSS file
 
 function App() {
-  const site = "https://timeo.serveo.net";
+  const site = "https://safestore.serveo.net";
   const [selectedFile, setSelectedFile] = useState(null);
   const [uploadStatus, setUploadStatus] = useState(null);
   const [fileList, setFileList] = useState([]);
