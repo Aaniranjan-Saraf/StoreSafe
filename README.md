@@ -1,6 +1,6 @@
-# SERVRE
-Are you tired of the hassle of emailing files from your phone to your desktop? Say goodbye to that inconvenience because SERVRE is here to solve your problem!
-Using this simple web application, users can upload files to a remote server(on a local machine) and then download these files from the internet on any device or edit the list of your uploaded files simply by using the SERVRE web-application.
+# StoreSafe
+Are you tired of the hassle of emailing files from your phone to your desktop? Say goodbye to that inconvenience because StoreSafe is here to solve your problem!
+Using this simple web application, users can upload files to a remote server(on a local machine) and then download these files from the internet on any device or edit the list of your uploaded files simply by using the StoreSafe web-application.
 
 ## Technologies Employed
 
@@ -19,18 +19,18 @@ Using this simple web application, users can upload files to a remote server(on 
 3. *File Download*: Obtain a copy of any uploaded file from the server.
 4. *File Removal*: Delete any files that have been uploaded to the server.
 
-![Screenshot from 2023-06-20 13-49-21](https://github.com/Aaniranjan-Saraf/SERVRE/assets/97801096/06a1810b-9efd-46c0-a33c-d3a164c8bad5)
+![Screenshot from 2023-06-20 13-49-21](https://github.com/Aaniranjan-Saraf/StoreSafe/assets/97801096/06a1810b-9efd-46c0-a33c-d3a164c8bad5)
 
 
 ## Setup
 
 ### Clone the repository: 
 ```sh
-git clone https://github.com/Aaniranjan-Saraf/SERVRE.git
+git clone https://github.com/Aaniranjan-Saraf/StoreSafe.git
 ```
 ### Navigate to the project directory:
 ```sh
-cd SERVRE
+cd StoreSafe
 ```
 ### Install dependencies:
 ```sh
@@ -61,7 +61,7 @@ npm start
 - The server listens on port 8080 by default. Adjust the port number in the 'server.js' file as needed.
    - deploy backend server:
 ```
-cd SERVRE/
+cd StoreSafe/
 node server
 ```
 - Using ***Serveo***, make the server public:
