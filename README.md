@@ -58,10 +58,10 @@ npm start
   2. Type in your terminal:
 
 ```
-    ssh -R <subdomain>:80:localhost:8080 serveo.net
+    ssh -R safestore:80:localhost:8080 serveo.net
 ```
     
-***Note:*** *Replace subdomain with your desired subdomain or leave it empty for a random subdomain. Incoming requests are sent to Serveo, which routes them to your local server.*
+
 - Expose the web app running on port 3000 using ngrok:
   1. install [ngrok](https://ngrok.com/).
   2. Type in your terminal:
