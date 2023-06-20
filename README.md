@@ -37,6 +37,12 @@ cd SERVRE
 npm install
 ```
 ### Start the development server:
+   - open the react app
+
+```sh
+cd my-app
+```
+   - deploy server
 ```sh
 npm start
 ```
@@ -63,10 +69,8 @@ npm start
 
 - Expose the web app running on port 3000 using ngrok:
   1. install [ngrok](https://ngrok.com/).
-  2. Open the React app:
-```
-    cd my-app
-```     
+  2. Type in the terminal
+
 ```
     http 3000 sh ngrok
 ```
