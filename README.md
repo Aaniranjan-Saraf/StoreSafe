@@ -1,5 +1,5 @@
 # SERVRE
-
+Are you tired of the hassle of emailing files from your phone to your desktop? Say goodbye to that inconvenience because SERVRE is here to solve your problem!
 Using this simple web application, users can upload files to a remote server(on a local machine) and then download these files from the internet on any device or edit the list of your uploaded files just by using the SERVRE web-app.
 
 ## Technologies Employed
