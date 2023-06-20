@@ -30,7 +30,7 @@ git clone https://github.com/Aaniranjan-Saraf/SERVRE.git
 ```
 ### Navigate to the project directory:
 ```sh
-cd file-upload-download-app
+cd SERVRE
 ```
 ### Install dependencies:
 ```sh
