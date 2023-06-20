@@ -63,8 +63,10 @@ npm start
 
 - Expose the web app running on port 3000 using ngrok:
   1. install [ngrok](https://ngrok.com/).
-  2. Type in your terminal:
-     
+  2. Open the React app:
+```
+    cd my-app
+```     
 ```
     http 3000 sh ngrok
 ```
