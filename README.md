@@ -58,15 +58,17 @@ npm start
 
 
 ## Port Routing 
-- The server listens on port 8080 by default. Adjust the port number in the'server.js' file as needed.
+- The server listens on port 8080 by default. Adjust the port number in the 'server.js' file as needed.
+   - deploy backend server:
+```
+   node server
+```
 - Using Serveo, make the server public:
    - Type in your terminal:
-
 ```
     ssh -R safestore:80:localhost:8080 serveo.net
 ```
     
-
 - Expose the web app running on port 3000 using ngrok:
   1. install [ngrok](https://ngrok.com/).
   2. Type in the terminal
