@@ -57,7 +57,7 @@ npm start
   1. install [Serveo](https://serveo.net/).
   2. Type in your terminal:
 ```
-ssh -R <subdomain>:80:localhost:8080 serveo.net
+  ssh -R <subdomain>:80:localhost:8080 serveo.net
 ```
     
     ***Note:*** *Replace'<subdomain>' with your desired subdomain or leave it empty for a random subdomain. Incoming requests are sent to Serveo, which routes them to your local server.*
@@ -65,7 +65,7 @@ ssh -R <subdomain>:80:localhost:8080 serveo.net
   1. install [ngrok](https://ngrok.com/).
   2. Type in your terminal:
 ```
-http 3000 sh ngrok
+  http 3000 sh ngrok
 ```
-    ngrok generates a temporary *public URL* that redirects inquiries to your local development server.
+ngrok generates a temporary *public URL* that redirects inquiries to your local development server.
 
