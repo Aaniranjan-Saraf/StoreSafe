@@ -63,7 +63,7 @@ npm start
 ```
    node server
 ```
-- Using Serveo, make the server public:
+- Using ***Serveo***, make the server public:
    - Type in your terminal:
 ```
     ssh -R safestore:80:localhost:8080 serveo.net
