@@ -19,7 +19,8 @@ Using this simple web application, users can upload files to a remote server(on 
 3. *File Download*: Obtain a copy of any uploaded file from the server.
 4. *File Removal*: Delete any files that have been uploaded to the server.
 
-![Screenshot from 2023-06-20 13-45-21](https://github.com/Aaniranjan-Saraf/SERVRE/assets/97801096/a484b837-f4db-4099-bbb5-dda948a2dcd2)
+![Screenshot from 2023-06-20 13-49-21](https://github.com/Aaniranjan-Saraf/SERVRE/assets/97801096/06a1810b-9efd-46c0-a33c-d3a164c8bad5)
+
 
 ## Setup
 
