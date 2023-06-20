@@ -54,8 +54,7 @@ npm start
 ## Port Routing 
 - The server listens on port 8080 by default. Adjust the port number in the'server.js' file as needed.
 - Using Serveo, make the server public:
-  1. install [Serveo](https://serveo.net/).
-  2. Type in your terminal:
+   - Type in your terminal:
 
 ```
     ssh -R safestore:80:localhost:8080 serveo.net
