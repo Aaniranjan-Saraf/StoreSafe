@@ -61,6 +61,7 @@ npm start
 - The server listens on port 8080 by default. Adjust the port number in the 'server.js' file as needed.
    - deploy backend server:
 ```
+cd SERVRE/
 node server
 ```
 - Using ***Serveo***, make the server public:
