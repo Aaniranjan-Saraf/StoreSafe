@@ -24,6 +24,9 @@ Using this simple web application, users can upload files to a remote server(on 
 
 ## Setup
 
+![image](https://github.com/Aaniranjan-Saraf/StoreSafe/assets/97801096/51f28ada-c3ab-4f00-afe9-658b94fd300f)
+
+
 ### Clone the repository: 
 ```sh
 git clone https://github.com/Aaniranjan-Saraf/StoreSafe.git
@@ -75,7 +78,7 @@ ssh -R safestore:80:localhost:8080 serveo.net
   2. Type in the terminal
 
 ```
-http 3000 sh ngrok
+ngrok http 3000
 ```
 ngrok generates a temporary *public URL* that redirects inquiries to your local development server.
 
