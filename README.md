@@ -24,7 +24,8 @@ Using this simple web application, users can upload files to a remote server(on 
 
 ## Setup
 
-![image](https://github.com/Aaniranjan-Saraf/StoreSafe/assets/97801096/51f28ada-c3ab-4f00-afe9-658b94fd300f)
+![Screenshot from 2023-07-05 22-40-37](https://github.com/Aaniranjan-Saraf/StoreSafe/assets/97801096/8d533d46-8f4c-4c57-8617-25232e0ed60e)
+
 
 
 ### Clone the repository: 
