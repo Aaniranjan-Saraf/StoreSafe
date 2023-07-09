@@ -51,7 +51,6 @@ npm start
 ```
 ### Open your browser and visit the ngrok link to access the application. 
 
-![Screenshot from 2023-07-05 22-40-37](https://github.com/Aaniranjan-Saraf/StoreSafe/assets/97801096/8d533d46-8f4c-4c57-8617-25232e0ed60e)
 
 
 ## API Endpoints
@@ -74,6 +73,9 @@ node server
 ```
 ssh -R safestore:80:localhost:8080 serveo.net
 ```
+
+![Screenshot from 2023-07-05 22-40-37](https://github.com/Aaniranjan-Saraf/StoreSafe/assets/97801096/8d533d46-8f4c-4c57-8617-25232e0ed60e)
+
     
 - Expose the web app running on port 3000 using ngrok:
   1. install [ngrok](https://ngrok.com/).
