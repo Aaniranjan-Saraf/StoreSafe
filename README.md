@@ -24,7 +24,6 @@ Using this simple web application, users can upload files to a remote server(on 
 
 ## Setup
 
-![Screenshot from 2023-07-05 22-40-37](https://github.com/Aaniranjan-Saraf/StoreSafe/assets/97801096/8d533d46-8f4c-4c57-8617-25232e0ed60e)
 
 
 
@@ -51,6 +50,8 @@ cd my-app
 npm start
 ```
 ### Open your browser and visit the ngrok link to access the application. 
+
+![Screenshot from 2023-07-05 22-40-37](https://github.com/Aaniranjan-Saraf/StoreSafe/assets/97801096/8d533d46-8f4c-4c57-8617-25232e0ed60e)
 
 
 ## API Endpoints
